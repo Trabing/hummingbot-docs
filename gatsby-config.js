@@ -22,6 +22,7 @@ const sidebarCategories = {
   Connectors: [
     "connectors/overview",
     "connectors/binance",
+    "connectors/binance-futures",
     "connectors/binance-us",
     "connectors/bitfinex",
     "connectors/bittrex",
